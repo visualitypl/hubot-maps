@@ -1,3 +1,7 @@
+# Archived
+
+This project's support has been ceased. No future fixes or pull requests are planned.
+
 Hubot Maps
 ==========
 A Hubot script for searching maps and directions via Google
